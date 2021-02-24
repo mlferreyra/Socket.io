@@ -1,0 +1,7 @@
+1) Creo una carpeta llamada CHAT y creo una estructura basica de HTML
+
+2) npm init (para iniciar node)
+
+3) npm i express socket.io moment
+
+4) npm i -D nodemon
